@@ -19,6 +19,22 @@ This document is separated into the four main decentralized features needed to a
 
 ## Current State of Decentralized Applications
 
+Section with changes [[[[ ICO's have paved the way for the decentralized internet. The necessary applications to achieve it have been funded and are now under development. Supload plans to implement and connect these applications to achieve a completely decentralized model. We aim to bridge these applications into an easy-to-use product that can reach mass adoption.
+
+Given this, the problems these applications are working to solve are extremely difficult computer science problems - with little precedence. This makes identifying an exact completion date hard to do. Here is how we see the current landscape:
+
+![Current State of Decentralized Applications](https://i.supload.com/rygoFMFls-.png)
+
+The Protocol vs The DApp
+
+Plasma, the biggest and most important feature, needs to occur primarily at the protocol level. Unfortunately, we are not seeing the same rapid development on the protocol level that we are with start-up applications that are creating and selling a new token for funding. The economic incentive is just far greater for the latter than it is contributing your time to advance a protocol like Ethereum. The potential benefit for the community as a whole, however, with a scaling solution like Plasma or Lighting is immense and necessary. This raises a difficult question - where should the money to fund protocol level development come from? Private funding? Crowd funding?
+
+Supload will contribute to this effort by committing a full-time developer to help solve the blockchain scalability problem. Our roadmap, and many alike, rely on the Plasma Ethereum framework. We aim to start a new trend for tokenized apps relying on these solutions to also commit resources for communal benefit.
+
+In addition, upon full funding in our token sale, we will also commit a full-time developer to help with the open source projects surrounding the blockchain ecosystem. HLS streaming of video from IPFS sources is a currently open issue on github for example. Or committing code to the wallet manufacturers to help with Lightning Network integration.
+
+We believe that if you are a well-funded startup relying on future protocol and open source products, its a duty to hire full-time developers to help speed up the future decentralized web. ]]] new section end
+
 Not all the necessary applications exist today to completely decentralize Supload. Fortunately, everything we need is currently under development. Thanks to the recent rise in fundraising from the initial coin offering fundraising model, the speed at which the necessary applications are being built is being greatly expedited. The decentralized internet is coming, and quickly. ICO's have assured that. We want to be one of the first consumer applications that connects all of these applications into a easy to use product that can achieve mass adoption.
 
 With that said, the problems these applications are trying to solve are extremely difficult computer science problems that have never been solved before. So putting exact completion dates on each of these features is very difficult. Here is how we see the current landscape.
